@@ -39,3 +39,11 @@ Date:   Sat Oct 14 10:13:10 2023 +0300
 
     Initial commit
 (END)
+
+C:\Users\danil\OneDrive\Рабочий стол\test>git log --merges
+commit d8a458e946cdb45e955e938155cf329246d31b57 (HEAD -> main)
+Merge: 75321fe a8eba9b
+Author: DanilHurskiy1 <danilhurskiy@gmail.com>
+Date:   Sat Oct 14 11:02:05 2023 +0300
+
+    Зміни в файлі conflict soft newfile.txt
