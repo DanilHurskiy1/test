@@ -1,0 +1,41 @@
+C:\Users\danil\OneDrive\Рабочий стол\test>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\danil\OneDrive\Рабочий стол\test>git branch
+  branch1
+* main
+
+C:\Users\danil\OneDrive\Рабочий стол\test>git log
+commit 75321fe8e5578f05b4f4730dc05e9de40b1d55ad (HEAD -> main, origin/main, origin/HEAD)
+Author: Danil <82728018+DanilHurskiy1@users.noreply.github.com>
+Date:   Sat Oct 14 10:50:32 2023 +0300
+
+    Create newfile2
+
+commit 1b97169b07b944bf304c98714c018b014830852a
+Author: DanilHurskiy1 <danilhurskiy@gmail.com>
+Date:   Sat Oct 14 10:47:18 2023 +0300
+
+    Зміни в файлі 654 newfile.txt
+
+commit 1f162dd1a0d115588de0ed9d01a002fa63e4a91b
+Author: DanilHurskiy1 <danilhurskiy@gmail.com>
+Date:   Sat Oct 14 10:43:05 2023 +0300
+
+    Зміни в файлі 987 newfile.txt
+
+commit bbe48771dfb47827f1edb71a1e460d23d058957d
+Author: DanilHurskiy1 <danilhurskiy@gmail.com>
+Date:   Sat Oct 14 10:22:05 2023 +0300
+
+    Додано новий файл newfile.txt
+
+commit 894944a56b41fae9128adb5b67fcf85c86b81406
+Author: Danil <82728018+DanilHurskiy1@users.noreply.github.com>
+Date:   Sat Oct 14 10:13:10 2023 +0300
+
+    Initial commit
+(END)
